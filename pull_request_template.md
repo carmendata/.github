@@ -1,20 +1,20 @@
-**Trello**
+## Trello
 
-- Link the trello card this PR originates from
+Link the trello card this PR originates from
 
-**What is it for**
+## What is it for
 
 Describe
 
-**Changes**
+## Changes
 
-- Features/Bugs
+Features/Bugs
 
-**Setup**
+## Setup
 
-- Submodules/Patches/Setup/Config
+Submodules/Patches/Setup/Config
 
-**Testing**
+## Testing 
 
 - Tools/Vehicles/Channels
 
