@@ -16,7 +16,7 @@ Submodules/Patches/Setup/Config
 
 ## Testing 
 
-**Remember to check error log after deploying**
+**Remember to check error log during testing and after deploying**
 
 - Tools/Vehicles/Channels
 
