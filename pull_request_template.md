@@ -4,7 +4,7 @@
 
 ## What is it for
 
-- Purpose
+- Describe the purpose
 
 ## Changes
 
