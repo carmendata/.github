@@ -1,3 +1,20 @@
+## Trello
+
+- Link to trello card
+
+## What is it for
+
+- Purpose
+
+## Changes
+
+- What you changed
+
+## Setup
+
+- DB patches
+- Data
+- Links to other PRs
 
 ## Testing
 
