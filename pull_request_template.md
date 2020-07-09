@@ -13,7 +13,7 @@
 ## Setup
 
 - DB patches
-- Data
+- Data syncing & creation
 - Links to other PRs
 
 ## Testing
