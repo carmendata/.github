@@ -20,8 +20,6 @@
 
 ### General
 
-- Delete as appropriate
-
 |Repo  | Task | URL
 |--|--|--|
 | All | Check error log | [http://d51alfie.squirrel.comcar.co.uk/devtools/errorlog/](http://d51alfie.squirrel.comcar.co.uk/devtools/errorlog/)
