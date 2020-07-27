@@ -1,12 +1,12 @@
-## Trello
+# Trello
 
 - Link to trello card
 
-## What is it for
+# What is it for
 
 - Describe the purpose
 
-## Changes
+# Changes
 
 - What you changed
 
@@ -16,9 +16,9 @@
 - Data syncing & creation
 - Links to other PRs
 
-## Testing
+# Testing
 
-### General
+## General
 
 |Repo  | Task | Link
 |--|--|--|
@@ -29,12 +29,12 @@
 | Pluto | Run unit tests | Postman
 
  
-### Exercise & Verify
+## Exercise & Verify
 
 - Tools/Vehicles/Channels
 
 - Sites prefixed with https://d51alfie
 
-### Teardown
+## Teardown
 
 n/a
