@@ -26,6 +26,7 @@
 | All (front end) | Check console |
 | All (front end) | Browser/responsive testing | https://live.browserstack.com/dashboard <br /><sub><sup>IE11, Edge, Android, iOS, mobile, tablet. Use browserstack where required.</sup></sub>
 | CORE | Run unit tests | http://d51alfie.test/core/tests/runner.cfm
+| PAGE | Run unit tests | http://d51alfie.test/page/tests/runner.cfm
 | Pluto | Run unit tests | Postman
 
  
