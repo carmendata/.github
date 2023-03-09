@@ -12,9 +12,18 @@
 
 ## Setup
 
-- DB patches
-- Data syncing & creation
-- Links to other PRs
+#### Associated PRs
+- Any submodules or related PRs in other repos
+#### DB Patch
+```mysql
+
+For DB Patches longer than 10 or so lines attach as a txt file
+
+```
+
+#### Clear channel cache
+- [Clear cache](https://d51alfie.squirrel.comcar.co.uk/channels/setup/com/channel-panels-api.cfc?method=deleteCache&delete_all=true&returnFormat=json)
+
 
 # Testing
 
